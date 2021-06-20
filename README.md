@@ -1,1 +1,1 @@
-# Crypto_Arbitrage
+This notebook displays and analyzes the spread opportunites between two crypto exchanges Bitstamp and Coinbase. At the start of 2018 which the data is from the there were more opportunites for arbitrage buying on Coinbase and then selling on Bitstamp. Overtime the arbitrage switched direction and best buying exchange would have been Bitstamp then sell on Coinbase.
